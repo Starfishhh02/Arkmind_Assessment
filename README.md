@@ -7,6 +7,12 @@ In this website, you are able to:
 4. Delete Existing Item: A button to delete an item with confirmation
 5. Create Item: A form to add a new item
 
+In this development;
+1. MySQL is used as the database
+2. Axios is used to interact with the backend
+3. Frontend File > App.tsx (layout), App.css (design)
+4. Backend File > config.php (CRUD)
+
 Pre-Configuration 
 1. Install XAMPP
 2. Download this zip folder and unzip it
@@ -26,8 +32,4 @@ How to start the process
 3. Start the environment by typing "npm run dev"
 4. If successful, a localhost network will be provided, and use the given address to access the website
 
-In this development;
-1. MySQL is used as the database
-2. Axios is used to interact with the backend
-3. Frontend > React
 
